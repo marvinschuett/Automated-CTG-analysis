@@ -19,10 +19,10 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 1**: [Cardiotocography Data Analysis for Fetal Health Classification Using Machine Learning Models]
 
   - **[Link](https://ieeexplore.ieee.org/abstract/document/10431783)**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **Objective**: From the abstract: "Development of efficient fetal health classification models [...] for optimizing medical resources and saving time. [...] application of machine learning (ML) techniques [...] to explore, develop, and analyze ML models capable of accurately classifying fetal health based on CTG data.
+  - **Methods**: From the abstract: "Various ML models, including Random Forests, Logistic Regression, Decision Trees, Support Vector Classifiers, Voting Classes, and K-Nearest Neighbors, are deployed on the data set. The analysis involves rigorous training and testing of these models to assess their efficacy in classifying fetal health." .
+  - **Outcomes**: From the abstract" The study yields promising outcomes, with the implemented ML models achieving a notable accuracy level of 93%, surpassing previous methods."
+  - **Relation to the Project**: The findings hint towards promising ML models that can be used as baseline model for this analysis. This project seeks to find improvements in accuracy levels by alternating the ML model specification.
 
 - **Source 2**: [Title of Source 2]
 
