@@ -24,7 +24,7 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: From the abstract" The study yields promising outcomes, with the implemented ML models achieving a notable accuracy level of 93%, surpassing previous methods."
   - **Relation to the Project**: The findings hint towards promising ML models that can be used as baseline model for this analysis. This project seeks to find improvements in accuracy levels by alternating the ML model specification.
 
-- **Source 2**: [Title of Source 2]
+- **Source 2**: [Artificial intelligence-driven predictive framework for early detection of still birth]
 
   - **[Link](https://www.sciencedirect.com/science/article/pii/S2472630324000852#sec3)**
   - **Objective**: The study aims to develop a predictive framework using the TabPFN model to classify stillbirth and live birth outcomes efficiently and accurately based on CTG data, improving early detection and resource optimization in prenatal care. Unlike Study 1, which clearly uses the three CTG classes (normal, suspicious, pathological) for fetal health classification, this study focuses on predicting stillbirth.
