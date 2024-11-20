@@ -34,7 +34,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 3**: [Title of Source 3]
 
-  - **[Link]()**
+  - **[Link](https://phuongdelrosario.medium.com/uci-cardiotocography-data-set-fetal-states-classification-part-1-data-summary-and-eda-e0cec8a61eff)**
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
