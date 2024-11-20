@@ -32,13 +32,13 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: The TabPFN model outperformed all other approaches, achieving an accuracy of 97.91% and high scores across all evaluation metrics. Its computational efficiency allows for rapid predictions, making it suitable for real-time applications.
   - **Relation to the Project**: This work provides a baseline model for fetal health classification, combining accuracy and efficiency. The included literature overview offers references to more studies in this field.
 
-- **Source 3**: [Title of Source 3]
+- **Source 3**: [Cardiotocography Data Set - Fetal state classification — Part 1: Data Summary and EDA]
 
   - **[Link](https://phuongdelrosario.medium.com/uci-cardiotocography-data-set-fetal-states-classification-part-1-data-summary-and-eda-e0cec8a61eff)**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **Objective**: The article provides a comprehensive summary and exploratory data analysis (EDA) of the UCI Cardiotocography (CTG) dataset. It aims to prepare the data for subsequent machine learning applications.
+  - **Methods**: The CTG dataset comprises 2,126 observations with 40 attributes, including fetal heart rate and uterine contraction features. The author performs data cleaning by removing 18 irrelevant columns and standardizing the remaining 21 numerical features. An analysis of class distribution reveals an imbalance among the three classes: normal (N), suspect (S), and pathological (P). Correlation analysis identifies strong relationships between certain features. Histograms and Kolmogorov-Smirnov tests are utilized to assess the discriminative power of selected features across different classes.
+  - **Outcomes**: The EDA uncovers significant class imbalance, with the normal class comprising the majority of observations. High correlations between specific features suggest potential multicollinearity, which may influence model performance. The analysis also identifies features with strong discriminative power, providing a foundation for feature selection in future modeling efforts.
+  - **Relation to the Project**: This article offers valuable insights into the CTG dataset's structure and characteristics, serving as a crucial step in developing predictive models for fetal state classification. The findings from the EDA inform feature selection and address challenges such as class imbalance, which are essential considerations for building robust machine learning models.
  
 
 
