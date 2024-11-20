@@ -27,10 +27,10 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 2**: [Title of Source 2]
 
   - **[Link](https://www.sciencedirect.com/science/article/pii/S2472630324000852#sec3)**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **Objective**: The study aims to develop a predictive framework using the TabPFN model to classify stillbirth and live birth outcomes efficiently and accurately based on CTG data, improving early detection and resource optimization in prenatal care. Unlike Study 1, which clearly uses the three CTG classes (normal, suspicious, pathological) for fetal health classification, this study focuses on predicting stillbirth.
+  - **Methods**: Using the same CTG dataset as Study 1, which includes 2126 records categorized as normal, suspicious, or pathological, various machine learning models were trained and tested. The TabPFN model was evaluated alongside methods like Random Forest and Gradient Boosting using metrics such as accuracy, precision, recall, F1-score, MCC, and AUC. K-fold cross-validation ensured robustness and reliability. Additionally, the study provides a literature review, summarizing previous methods and models, which can serve as a useful resource for further research.
+  - **Outcomes**: The TabPFN model outperformed all other approaches, achieving an accuracy of 97.91% and high scores across all evaluation metrics. Its computational efficiency allows for rapid predictions, making it suitable for real-time applications.
+  - **Relation to the Project**: This work provides a baseline model for fetal health classification, combining accuracy and efficiency. The included literature overview offers references to more studies in this field.
 
 - **Source 3**: [Title of Source 3]
 
