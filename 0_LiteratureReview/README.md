@@ -39,3 +39,62 @@ Approaches or solutions that have been tried before on similar projects.
   - **Methods**:
   - **Outcomes**:
   - **Relation to the Project**:
+ 
+
+
+### More Studies (extracted from Study 2)
+
+#### [Rayhana T, et al. (2021)](https://www.researchgate.net/profile/Sabbir-Chowdhury/publication/358157030_Automatic_detection_of_fetal_health_status_from_cardiotocography_data_using_machine_learning_algorithms/links/61fbd33911a1090a79ce70e5/Automatic-detection-of-fetal-health-status-from-cardiotocography-data-using-machine-learning-algorithms.pdf)
+
+- Models: LR, RF, SVM, k-NN, XGBoost
+- Performance: 96.7% XGB
+
+#### [Abiyev R, et al. (2023)](http://dx.doi.org/10.3390/diagnostics13101690)
+
+- Models: T2-FNN, LR, GNB, SVC, RBF SVC, ANN, CART, RF, CatBoost, RNN
+- Performance: 96.6% T2-FNN (63 rules)
+
+#### [Li J & Liu X (2021)](https://ieeexplore.ieee.org/abstract/document/9389902)
+
+- Models: GBC, ADA, CatBoost, Light GBM, Extreme GBC, Cascade Forest, ETC, DT, LR, k-NN, LDA, ADA, Stacker Model, Blender Model
+- Performance: 95.9% Blender Model
+
+#### [Rahmayanti N, et al. (2022)](https://www.sciencedirect.com/science/article/pii/S1877050921023541)
+
+- Models: XGB, SVM, KNN, LGBM, RF, ANN, LSTM
+- Performance: 99% LGBM (after removing outliers)
+
+#### [Shruthi K & Poornima AS (2023)](https://ijisae.org/index.php/IJISAE/article/view/2849)
+
+- Models: RF, GA
+- Performance: 96.62% RF
+
+#### [Muhammad Hussain N, et al. (2022)](https://doi.org/10.3390/s22145103)
+
+- Models: RNN, RF, GoogleNet, DenseNet, NiftyNet, AlexNet, SVM-AlexNet
+- Performance: 99.72% SVM-AlexNet
+
+#### [Islam MM, et al. (2022)](https://www.researchgate.net/publication/371481096_Diagnosis_and_Classification_of_Fetal_Health_Based_on_CTG_Data_Using_Machine_Learning_Techniques)
+
+- Models: SVM, GBC, RF, ADA, LR, k-NN, DTC
+- Performance: 95% GBC
+
+#### [Alam MT, et al. (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9050321/)
+
+- Models: RF, LR, DT, SVC, VC, k-NN
+- Performance: 97.51% RF
+
+#### [Kuzu A & Santur Y (2023)](https://doi.org/10.3390/diagnostics13152471)
+
+- Models: RF, LR, GB, XGB
+- Performance: 99.5%
+
+#### [Piri J, et al. (2021)](https://www.researchgate.net/publication/355029967_Multi-objective_Ant_Lion_Optimization_Based_Feature_Retrieval_Methodology_for_Investigation_of_Fetal_Wellbeing)
+
+- Models: RF, SVM, DT, k-NN
+- Performance: 95% RF with smote
+
+#### [Bhowmik P, et al. (2021)](https://www.researchgate.net/publication/355022211_Cardiotocography_Data_Analysis_to_Predict_Fetal_Health_Risks_with_Tree-Based_Ensemble_Learning)
+
+- Models: Stacking EL, RF, DT, ETC, Deep forest
+- Performance: 96.05% Stacking EL
