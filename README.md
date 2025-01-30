@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# Automated CTG-analysis
 
 ## Repository Link
 
@@ -6,11 +6,13 @@
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Cardiotocography (CTG) is a standard technique used to monitor the fetal heartbeat and uterine contractions during pregnancy and labour.
+Problem: CTG-analysis remains partly subjective and has to be done ad hoc.
+Aim: Objectify the analysis of CTG-data through ML-techniques using data from 2126 CTGs (UCI archive).
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Main Task: Classification of CTG into Normal, Suspect and Pathologic (N,S,P).
 
 ### Results Summary
 
