@@ -8,10 +8,10 @@
 
 Cardiotocography (CTG) is a standard technique used to monitor the fetal heartbeat and uterine contractions during pregnancy and labour.
 
-# Problem: 
+### Problem: 
 CTG-analysis remains partly subjective and has to be done ad hoc.
 
-# Aim:
+### Aim:
 Objectify the analysis of CTG-data through ML-techniques using data from 2126 CTGs (UCI archive).
 
 ### Task Type
