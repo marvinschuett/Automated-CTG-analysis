@@ -2,17 +2,21 @@
 
 ## Repository Link
 
-[[https://github.com/your_username/your_project_name](https://github.com/marvinschuett/Automated-CTG-analysis)]
+[https://github.com/marvinschuett/Automated-CTG-analysis](https://github.com/marvinschuett/Automated-CTG-analysis)
 
 ## Description
 
 Cardiotocography (CTG) is a standard technique used to monitor the fetal heartbeat and uterine contractions during pregnancy and labour.
-Problem: CTG-analysis remains partly subjective and has to be done ad hoc.
-Aim: Objectify the analysis of CTG-data through ML-techniques using data from 2126 CTGs (UCI archive).
+
+# Problem: 
+CTG-analysis remains partly subjective and has to be done ad hoc.
+
+# Aim:
+Objectify the analysis of CTG-data through ML-techniques using data from 2126 CTGs (UCI archive).
 
 ### Task Type
 
-Main Task: Classification of CTG into Normal, Suspect and Pathologic (N,S,P).
+Classification of CTG datainto Normal, Suspect and Pathologic (N,S,P).
 
 ### Results Summary
 
