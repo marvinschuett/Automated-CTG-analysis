@@ -15,10 +15,13 @@ Initially, we investigate a multitude of metrics to better understand the underl
 
 #### Primary Metrics
 F1-Score: Balances Precision and Recall for each class.
+
 Recall: Ensure no pathological cases are missed (focus on sensitivity).
 #### Secondary Metrics
 Confusion Matrix: Analyze detailed classification errors.
+
 Accuracy: Provides an overall performance snapshot but is less reliable for imbalanced datasets.
+
 Precision: Evaluate the proportion of correct positive predictions to avoid excessive false alarms.
 
 ### Main results for the baseline models:
