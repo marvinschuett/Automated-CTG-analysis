@@ -34,4 +34,4 @@ Classification of CTG datainto Normal, Suspect and Pathologic (N,S,P).
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/CTG image.jpg)
