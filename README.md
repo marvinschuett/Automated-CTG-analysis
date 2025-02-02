@@ -20,9 +20,9 @@ Classification of CTG datainto Normal, Suspect and Pathologic (N,S,P).
 
 ### Results Summary
 
-- **Best Model:** [Neural Network ]
-- **Evaluation Metric:** [F1-Score]
-- **Result:** [F1-score of 0.947]
+- **Best Model:** Neural Network
+- **Evaluation Metric:** F1-Score
+- **Result:** F1-score of 0.947
 
 ## Documentation
 
