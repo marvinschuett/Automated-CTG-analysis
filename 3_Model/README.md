@@ -1,6 +1,6 @@
 # Model Definition and Evaluation
 
-**[Notebook](model_definition_evaluation)**
+**[Notebook](model_definition_evaluation.ipynb)**
 
 ## Model Selection
 After comparing baseline models, we determined that a model capable of handling non-linearity was necessary. Based on previous studies (Alzakari et al., 2024; Amin et al., 2019; Ogasawara et al., 2021), neural networks emerged as a promising approach for CTG data analysis.
